@@ -1,6 +1,5 @@
 # Bestcloudfor.me Akademi Case 4. Görev
 - Son aşama olan uygulamayı container olarak çalıştırma görevi tamamlandı ve “{"msg":"BC4M"}” mesajı browserda alındı.
-- Bu görevi tamamlarken bir container'ı nasıl başlatabileceğimi ve o container'ı Docker Desktop arayüzünden nasıl yönetebileceğimi öğrendim.
 
 Bu son görevde çalıştırmış olduğum bütün komutların ve container olarak çalıştırılan uygulamanın ekran görüntüsü "img" klasörü içerisinde mevcuttur. Ancak detaylı olarak aşağıda açıklanmıştır.
 
